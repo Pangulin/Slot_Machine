@@ -1,1 +1,1 @@
-Eine simple Slot-Machine
+Eine simple Slot-Machine :)
